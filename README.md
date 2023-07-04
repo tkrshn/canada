@@ -2,7 +2,7 @@
 
 ## Citizenship Test
 
-#### Timelines
+### Timelines
 
 - 1215 - Magna Carta
 - 1497 - European exploration began in earnest with the expedition of John Cabot, who was the first to draw a map of Canada’s East Coast.
@@ -105,8 +105,8 @@
   - The Government of Canada apologized for the discriminatory policy of Head Tax, a race-based entry fee for Chinese workers
 - 2008 - Ottawa formally apologized to the former students of residential schools
 
-#### Famous Persons
 
+### Famous Persons
 
 John Cabot - First to draw a map of Canada’s East Coast.
 
