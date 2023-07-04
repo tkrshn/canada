@@ -181,7 +181,7 @@ Lieutenant Colonel John McCrae  - composed the poem “In Flanders Fields” in 
 
 Phil Edwards - First Canadian Track and Field Champion who won bronze medals for Canada in 1928, 1932 and 1936 Olympics
 
-Men of Letters - Stephen Leacock, Louis Hémon, Sir Charles G.D. Roberts, Pauline Johnson, Émile Nelligan, Robertson Davies, Margaret Laurence and Mordecai Richler. 
+Stephen Leacock, Louis Hémon, Sir Charles G.D. Roberts, Pauline Johnson, Émile Nelligan, Robertson Davies, Margaret Laurence and Mordecai Richler - Men of Letters
 
 Sir Ernest MacMillan and Healey Willan - Musicians that won renown in Canada and abroad.
 
