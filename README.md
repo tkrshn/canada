@@ -4,108 +4,106 @@
 
 #### Timelines
 
-1215 - Magna Carta
-1497 - European exploration began in earnest with the expedition of John Cabot, who was the first to draw a map of Canada’s East Coast.
-1604 - the first European settlement north of Florida was established by French explorers Pierre de Monts and Samuel de Champlain
-1608 - Champlain built a fortress at what is now Québec City.
-1610 - English settlement did not begin until 1610
-1670 - King Charles II of England granted the Hudson’s Bay Company exclusive trading rights over the watershed draining into Hudson Bay.
-1701 - The French and the Iroquois made peace
-1758 - first representative assembly was elected in Halifax, Nova Scotia
-1759 - The British defeated the French in the Battle of the Plains of Abraham at Québec City
-1763 - Territorial rights were first guaranteed through the Royal Proclamation of 1763 by King George III, and established the basis for negotiating treaties with the newcomers— treaties that were not always fully respected.
-1773 - representative assembly was elected in Prince Edward Island 
-1774 - British Parliament passed the Quebec Act of 1774; One of the constitutional foundations of Canada
-1776 - the 13 British colonies to the south of Quebec declared independence and formed the United States.
-1785 - representative assembly was elected in New Brunswick  
-1791 - Constitutional Act; The Constitutional Act of 1791 divided the Province of Quebec into Upper Canada (later Ontario), which was mainly Loyalist, Protestant and English-speaking, and Lower Canada (later Quebec), heavily Catholic and French-speaking.
-1793 -  Upper Canada, led by Lieutenant Governor John Graves Simcoe, a Loyalist military officer, became the first province in the Empire to move toward abolition
-
-Late 18th and early 19th centuries - the first financial institutions opened
-1807 - the British Parliament prohibited the buying and selling of slaves
-1812 - War with America 
-1813 -  Laura Secord
-1814 - the American attempt to conquer Canada had failed
-1833 - abolished slavery throughout the Empire
-
-1832 - Montreal Stock Exchange opened
-1840 - Upper and Lower Canada were united as the Province of Canada
-1847–48 - Nova Scotia became first British North American colony to attain full responsible government  
-1848–49 - the governor of United Canada, Lord Elgin, introduced responsible government
-1849 - Sir Louis-Hippolyte La Fontaine, a champion of French language rights, became the first head of a responsible government (similar to a prime minister) in Canada
-1853 - Mary Ann Shadd Cary became the first woman publisher in Canada
-1857 - Ottawa, located on the Ottawa River, was chosen as the capital by Queen Victoria
-1864 - Sir Leonard Tilley, an elected official and Father of Confederation from New Brunswick, suggested the term Dominion of Canada
-1867 
-- British Parliament passed the British North America Act
-- The Dominion of Canada was officially born on July 1
-- Sir John Alexander Macdonald, a Father of Confederation, became Canada’s first Prime Minister.
-1869 - Louis Riel (Metis leader) led an armed uprising and seized Fort Garry, the territorial capital.
-1870 
-- Ottawa sent soldiers to retake Fort Garry
-- Manitoba, Northwest Territories 
-1871 – British Columbia 
-1873 
--  Prince Edward Island 
-- After the first Métis uprising, Prime Minister Macdonald established the North West Mounted Police (NWMP) to pacify the West and assist in negotiations with the Indians.
-1880 
-- Transfer of the Arctic Islands (to N.W.T.)
-- National anthem first sung in Québec City
-1885 
-- a powerful symbol of unity was completed when Donald Smith (Lord Strathcona), the Scottish-born director of the Canadian Pacific Railway (CPR), drove the last spike.
-- Banff National Park established 
-1890s - Yukon Gold Rush
-1891 - Basketball was invented by Canadian James Naismith
-1898 – Yukon Territory
-1890s and early 1900s -  economic boom
-1905 – Alberta, Saskatchewan
-1915 - Canadian medical officer Lieutenant Colonel John McCrae composed the poem “In Flanders Fields”
-1916 - Manitoba became the first province to grant voting rights to women
-1917 
-- Canadian Corps captured Vimy Ridge
-- the federal government of Sir Robert Borden gave women the right to vote in federal elections
-1918 - most Canadian female citizens aged 21 and over were granted the right to vote in federal elections.****
-1921 - 
-- King George V assigned Canada’s national colours
-- Agnes Macphail, a farmer and teacher, became the first woman MP in 1921
-1927  
-- Old Age Security was devised
-- Peace Tower was completed in memory of the First World War.
-1934 - Bank of Canada was established
-1940 
-- Quebec granted women the vote
-- Canada Health Act; ensures common elements and a basic standard of coverage. 
-- Unemployment insurance (now called “employment insurance”) was introduced by the federal government
-1947 - Alberta Oil
-1948 
-- The last of Asian descent, the Japanese Canadians, gained the right to vote
-- Quebec adopted its own flag, based on the Cross and the fleur-de-lys
-1949 – Newfoundland and Labrador 
-1960s - the Quiet Revolution.
-1960 - Aboriginal people were granted the vote
-1963 - Parliament established the Royal Commission on Bilingualism and Biculturalism
-1965 
-- the Canada and Quebec Pension Plans
-- the new Canadian flag was raised for the first time
-1967 - Canada started its own honours system with the Order of Canada
-1969 - Parliament passed the Official Languages Act.
-1970s 
-- the term First Nations began to be used
-- most immigrants have come from Asian countries since.
-1980 
-- movement for Quebec sovereignty was defeated in a referendum in the province
-- O Canada was proclaimed as the national anthem
-1982 - The Constitution of Canada was amended to entrench the Canadian Charter of Rights and Freedoms
-1988 
-- The Government of Canada apologized for wartime wrongs and compensated the victims.
-- Canada enacted free trade with the United States. 
-1994 - Mexico became a partner in the broader North American Free Trade Agreement (NAFTA),
-1995 - Quebec sovereignty was again defeated in a second referendum
-1999 - Nunavut
-2006 
-- The House of Commons recognized that the Quebecois form a nation within a united Canada.
-- The Government of Canada apologized for the discriminatory policy of Head Tax, a race-based entry fee for Chinese workers
-2008 - Ottawa formally apologized to the former students of residential schools
+- 1215 - Magna Carta
+- 1497 - European exploration began in earnest with the expedition of John Cabot, who was the first to draw a map of Canada’s East Coast.
+- 1604 - the first European settlement north of Florida was established by French explorers Pierre de Monts and Samuel de Champlain
+- 1608 - Champlain built a fortress at what is now Québec City.
+- 1610 - English settlement did not begin until 1610
+- 1670 - King Charles II of England granted the Hudson’s Bay Company exclusive trading rights over the watershed draining into Hudson Bay.
+- 1701 - The French and the Iroquois made peace
+- 1758 - first representative assembly was elected in Halifax, Nova Scotia
+- 1759 - The British defeated the French in the Battle of the Plains of Abraham at Québec City
+- 1763 - Territorial rights were first guaranteed through the Royal Proclamation of 1763 by King George III, and established the basis for negotiating treaties with the newcomers— treaties that were not always fully respected.
+- 1773 - representative assembly was elected in Prince Edward Island 
+- 1774 - British Parliament passed the Quebec Act of 1774; One of the constitutional foundations of Canada
+- 1776 - the 13 British colonies to the south of Quebec declared independence and formed the United States.
+- 1785 - representative assembly was elected in New Brunswick  
+- 1791 - Constitutional Act; The Constitutional Act of 1791 divided the Province of Quebec into Upper Canada (later Ontario), which was mainly Loyalist, Protestant and English-speaking, and Lower Canada (later Quebec), heavily Catholic and French-speaking.
+- 1793 -  Upper Canada, led by Lieutenant Governor John Graves Simcoe, a Loyalist military officer, became the first province in the Empire to move toward abolition
+- Late 18th and early 19th centuries - the first financial institutions opened
+- 1807 - the British Parliament prohibited the buying and selling of slaves
+- 1812 - War with America 
+- 1813 -  Laura Secord's journey to warn Canada of American attack
+- 1814 - the American attempt to conquer Canada had failed
+- 1833 - abolished slavery throughout the Empire
+- 1832 - Montreal Stock Exchange opened
+- 1840 - Upper and Lower Canada were united as the Province of Canada
+- 1847–48 - Nova Scotia became first British North American colony to attain full responsible government  
+- 1848–49 - the governor of United Canada, Lord Elgin, introduced responsible government
+- 1849 - Sir Louis-Hippolyte La Fontaine, a champion of French language rights, became the first head of a responsible government (similar to a prime minister) in Canada
+- 1853 - Mary Ann Shadd Cary became the first woman publisher in Canada
+- 1857 - Ottawa, located on the Ottawa River, was chosen as the capital by Queen Victoria
+- 1864 - Sir Leonard Tilley, an elected official and Father of Confederation from New Brunswick, suggested the term Dominion of Canada
+- 1867 
+  - British Parliament passed the British North America Act
+  - The Dominion of Canada was officially born on July 1
+  - Sir John Alexander Macdonald, a Father of Confederation, became Canada’s first Prime Minister.
+- 1869 - Louis Riel (Metis leader) led an armed uprising and seized Fort Garry, the territorial capital.
+- 1870 
+  - Ottawa sent soldiers to retake Fort Garry
+  - Manitoba, Northwest Territories 
+- 1871 – British Columbia 
+- 1873 
+  -  Prince Edward Island 
+  - After the first Métis uprising, Prime Minister Macdonald established the North West Mounted Police (NWMP) to pacify the West and assist in negotiations with the Indians.
+- 1880 
+  - Transfer of the Arctic Islands (to N.W.T.)
+  - National anthem first sung in Québec City
+- 1885 
+  - a powerful symbol of unity was completed when Donald Smith (Lord Strathcona), the Scottish-born director of the Canadian Pacific Railway (CPR), drove the last spike.
+  - Banff National Park established 
+- 1890s - Yukon Gold Rush
+- 1891 - Basketball was invented by Canadian James Naismith
+- 1898 – Yukon Territory
+- 1890s and early 1900s -  economic boom
+- 1905 – Alberta, Saskatchewan
+- 1915 - Canadian medical officer Lieutenant Colonel John McCrae composed the poem “In Flanders Fields”
+- 1916 - Manitoba became the first province to grant voting rights to women
+- 1917 
+  - Canadian Corps captured Vimy Ridge
+  - the federal government of Sir Robert Borden gave women the right to vote in federal elections
+- 1918 - most Canadian female citizens aged 21 and over were granted the right to vote in federal elections.****
+- 1921 - 
+  - King George V assigned Canada’s national colours
+  - Agnes Macphail, a farmer and teacher, became the first woman MP in 1921
+- 1927  
+  - Old Age Security was devised
+  - Peace Tower was completed in memory of the First World War.
+- 1934 - Bank of Canada was established
+- 1940 
+  - Quebec granted women the vote
+  - Canada Health Act; ensures common elements and a basic standard of coverage. 
+  - Unemployment insurance (now called “employment insurance”) was introduced by the federal government
+- 1947 - Alberta Oil
+- 1948 
+  - The last of Asian descent, the Japanese Canadians, gained the right to vote
+  - Quebec adopted its own flag, based on the Cross and the fleur-de-lys
+- 1949 – Newfoundland and Labrador 
+- 1960s - the Quiet Revolution.
+- 1960 - Aboriginal people were granted the vote
+- 1963 - Parliament established the Royal Commission on Bilingualism and Biculturalism
+- 1965 
+  - the Canada and Quebec Pension Plans
+  - the new Canadian flag was raised for the first time
+- 1967 - Canada started its own honours system with the Order of Canada
+- 1969 - Parliament passed the Official Languages Act.
+- 1970s 
+  - the term First Nations began to be used
+  - most immigrants have come from Asian countries since.
+- 1980 
+  - movement for Quebec sovereignty was defeated in a referendum in the province
+  - Canada was proclaimed as the national anthem
+- 1982 - The Constitution of Canada was amended to entrench the Canadian Charter of Rights and Freedoms
+- 1988 
+  - The Government of Canada apologized for wartime wrongs and compensated the victims.
+  - Canada enacted free trade with the United States. 
+- 1994 - Mexico became a partner in the broader North American Free Trade Agreement (NAFTA),
+- 1995 - Quebec sovereignty was again defeated in a second referendum
+- 1999 - Nunavut
+- 2006 
+  - The House of Commons recognized that the Quebecois form a nation within a united Canada.
+  - The Government of Canada apologized for the discriminatory policy of Head Tax, a race-based entry fee for Chinese workers
+- 2008 - Ottawa formally apologized to the former students of residential schools
 
 #### Famous Persons
 
